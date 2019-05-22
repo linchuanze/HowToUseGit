@@ -1,0 +1,1 @@
+echo "# HowToUseGit" >> README.md
